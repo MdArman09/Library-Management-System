@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta name="google-site-verification" content="pAh3u3EOfE3UnyBnJhlUb_OvNgMPxYjxAE-uifvMmdU" />
     <meta charset="UTF-8">
     <title>LMS SignUp</title>
     <link rel="stylesheet" href="signup.css">
